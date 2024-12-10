@@ -1,0 +1,3 @@
+﻿  EncryptionTool.cpp
+C:\Users\tb223\source\repos\EncryptionTool\EncryptionTool\EncryptionTool.cpp(114,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  EncryptionTool.vcxproj -> C:\Users\tb223\source\repos\EncryptionTool\x64\Debug\EncryptionTool.exe
